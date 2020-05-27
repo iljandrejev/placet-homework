@@ -1,0 +1,7 @@
+body {
+    background-color: lightgray;
+}
+
+div#root {
+    padding-top: 56px;
+}
