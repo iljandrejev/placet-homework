@@ -29,7 +29,5 @@ To seed database with fixtures run
  php bin/console doctrine:fixtures:load
 ```
 
-To access dashboard
-
-call [localhost](http://localhost/) in your browser
+To access dashboard call [localhost](http://localhost/) in your browser
  
